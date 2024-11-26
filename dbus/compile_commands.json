@@ -1,0 +1,16 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-I/usr/include/dbus-1.0",
+      "-I/usr/lib/x86_64-linux-gnu/dbus-1.0/include",
+      "-o",
+      "serv",
+      "serv.c"
+    ],
+    "directory": "/home/lixiang/linux-ipc-demo/dbus",
+    "file": "/home/lixiang/linux-ipc-demo/dbus/serv.c",
+    "output": "/home/lixiang/linux-ipc-demo/dbus/serv"
+  }
+]
